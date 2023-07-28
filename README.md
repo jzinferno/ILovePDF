@@ -6,7 +6,7 @@ https://developer.ilovepdf.com/docs/api-reference
 
 ```bash
 git clone --depth=1 https://github.com/jzinferno/ILovePDF.git
-pip install --upgrade httpx
+pip install --upgrade aiofiles httpx
 ```
 
 ### Usage
